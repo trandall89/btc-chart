@@ -1,0 +1,13 @@
+.linechart_path {
+  stroke-width: 3; 
+  fill: brown;      
+}
+.linechart_axis {
+  stroke-width:3;
+  stroke: #bdc3c7; 
+}
+
+svg {
+    width: 900px;
+    margin: 4em;
+}

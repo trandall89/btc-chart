@@ -1,0 +1,12 @@
+.info-box {
+    display: inline-block;
+    border: 2px solid #000000;
+    margin: 2px;
+    padding: 5px;
+}
+
+.diff-box {
+    display:inline-block;
+    padding: 5px;
+    margin:2px;
+}

@@ -1,0 +1,8 @@
+{
+    points: [
+        {
+            x: somevalue,
+            y: somevalue
+        },
+        ]
+}
